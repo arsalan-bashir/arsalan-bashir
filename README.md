@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring**
 
-- 👨‍💻 All of my projects are available at [https:arsalan.netlify.app](https:arsalan.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https:arsalan-bashir.github.io)
 
 - 💬 Ask me about **Python, Django, Java, Machine Learning**
 
