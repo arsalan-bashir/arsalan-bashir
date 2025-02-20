@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalan-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="arsi10" /> </p>
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently looking for a job as a **Software Developer**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https:arsalan-bashir.github.io)
 
-- 💬 Ask me about **Python, Django, Java, Machine Learning**
+- 💬 Ask me about **Python, Django, Java, Springboot, Machine Learning**
 
 - 📫 How to reach me **arsalanbashir29@gmail.com**
 
